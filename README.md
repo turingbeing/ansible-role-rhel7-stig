@@ -1,8 +1,6 @@
 # DISA STIG for Red Hat Enterprise Linux 7
 
-[![Build Status](https://travis-ci.org/RedHatOfficial/ansible-role-rhel7-stig.svg?branch=master)](https://travis-ci.org/RedHatOfficial/ansible-role-rhel7-stig)
-[![Ansible Role](https://img.shields.io/ansible/role/39712.svg)](https://galaxy.ansible.com/RedHatOfficial/rhel7_stig)
-[![GitHub release](https://img.shields.io/github/release/RedHatOfficial/ansible-role-rhel7-stig.svg)](https://github.com/RedHatOfficial/ansible-role-rhel7-stig/releases/latest)
+[![CI](https://github.com/turingbeing/ansible-role-rhel7-stig/workflows/CI/badge.svg?event=push)](https://github.com/turingbeing/ansible-role-rhel7-stig/actions?query=workflow%3ACI)
 
 Ansible Role for DISA STIG for Red Hat Enterprise Linux 7  
 
